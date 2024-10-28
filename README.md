@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift**
 
-- 👯 I’m looking to collaborate on [open source python project](Fill in)
+- 👯 I’m looking to collaborate on **Chess.io or any project you need help on!**
 
 - 🤝 I’m looking for help with **improving my Chess AI Bot**
 
