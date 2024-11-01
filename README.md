@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **improving my Chess AI Bot**
 
-- 💬 Ask me about **React, Flask, and full stack development**
+- 💬 Ask me about **React, Flask, and OpenAI integrations**
 
 - 📫 How to reach me **dylan.shafe@gmail.com**
 
