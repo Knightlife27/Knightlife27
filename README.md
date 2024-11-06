@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Chess.io or any project you need help on!**
 
-- 🤝 I’m looking for help with **improving my Chess AI Bot**
+- 🤝 I’m looking for help with **improving my Chess AI Engine**
 
-- 💬 Ask me about **React, Flask, and OpenAI integrations**
+- 💬 Ask me about **React, Flask, Minimax algorithm, and Alpha-beta pruning**
 
 - 📫 How to reach me **dylan.shafe@gmail.com**
 
