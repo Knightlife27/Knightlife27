@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dylan.shafe@gmail.com**
 
-- ⚡ Fun fact **I'm a chess nerd and love to study chess theory!**
+- ⚡ Fun fact **In my freetime I enjoy surfing, playing chess, and spending time with family/friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
