@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Shafe</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from San Francisco, California</h3>
+<h3 align="center">A Solutions Engineer from San Francisco, California</h3>
 
 - 🔭 I’m currently working on **Nestify.ai**
 
