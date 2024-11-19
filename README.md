@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **improving my Chess AI Engine**
 
-- 💬 Ask me about **React, Flask, Minimax algorithm, and Alpha-beta pruning**
+- 💬 Ask me about **React, Flask, OpenAI integrations, Minimax algorithm, and/or Alpha-beta pruning!**
 
 - 📫 How to reach me **dylan.shafe@gmail.com**
 
